@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Chin</h1>
-<h3 align="center">I'm a Full-Stack Web Engineer</h3>
+<h3 align="center">I'm a Full-Stack Software Engineer</h3>
 <div align= "center">- 📫 How to reach me **richardchin94@gmail.com**</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=knoxthinks&label=Profile%20views&color=0e75b6&style=flat" alt="knoxthinks" /> </p>
