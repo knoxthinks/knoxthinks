@@ -1,4 +1,4 @@
-<h1 align="center">Richard Chin</h1>
+<h1 align="center">Richard C</h1>
 <h3 align="center">Software Engineer</h3>
 <div align= "center">- 📫 Feel free to e-mail me. devrichardchin@gmail.com</div>
 
